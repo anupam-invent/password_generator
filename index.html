@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Password Generator</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="content">
+            <h1><span>Strong. Secure. Awesome.</span><br> Try my random password generator.</h1>
+            <p>A powerful generator for powerful passwords to protect your online accounts.</p>
+        </div>
+        <div class="card">
+            <div class="display">
+                <p>Generated Password</p>
+                <input type="text" id="password" placeholder="Password" readonly>
+                <div class="btn">
+                    <button onclick="copyPassword()" class="primary-btn">Copy Password</button>
+                    <button onclick="createPassword()" class="secondary-btn">Refresh Password</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer_area">
+        <p>&copy; 2024 Anupam Invent. All rights reserved.</p>
+    </footer>
+    <script src="./script.js"></script>
+</body>
+
+</html>

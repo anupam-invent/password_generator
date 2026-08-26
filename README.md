@@ -40,6 +40,7 @@ A sleek, lightweight web application built to generate strong, secure, and custo
 
 ```text
 password_generator/
+
 ├── index.html        # Primary HTML structure
 ├── style.css         # Styling and custom UI rules
 ├── script.js        # Core generator logic & event handlers

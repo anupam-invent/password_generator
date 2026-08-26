@@ -36,14 +36,14 @@ A sleek, lightweight web application built to generate strong, secure, and custo
 
 ---
 
-## 🚀 Quick Start
+## 📂 Project Structure
 
-### 1. View Live Deployment
-You can access the hosted web application directly at:
-👉 **[anupam-invent.github.io/password_generator](https://anupam-invent.github.io/password_generator/)**
-
+```text
 password_generator/
-├── index.html        # Main HTML layout
-├── style.css         # Styling rules
-├── script.js        # Core logic
-└── README.md         # Project documentation
+├── index.html        # Primary HTML structure
+├── style.css         # Styling and custom UI rules
+├── script.js        # Core generator logic & event handlers
+└── README.md         # Documentation
+
+```
+---

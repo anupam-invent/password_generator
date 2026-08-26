@@ -4,8 +4,6 @@
 
 A sleek, lightweight web application built to generate strong, secure, and customizable passwords to keep your online accounts safe.
 
-[Live Demo](https://anupam-invent.github.io/password_generator/) • [Report Bug](https://github.com/anupam-invent/password_generator/issues) • [Request Feature](https://github.com/anupam-invent/password_generator/issues)
-
 ---
 
 </div>

@@ -1,33 +1,46 @@
-# Password Generator
+<div align="center">
 
-A responsive, client-side web application designed to generate strong, customizable passwords.
+# 🔐 Password Generator
 
-[Live Demo](https://anupam-invent.github.io/password_generator/) • [Report Issue](https://github.com/anupam-invent/password_generator/issues)
+A sleek, lightweight web application built to generate strong, secure, and customizable passwords to keep your online accounts safe.
 
-## Overview
+[Live Demo](https://anupam-invent.github.io/password_generator/) • [Report Bug](https://github.com/anupam-invent/password_generator/issues) • [Request Feature](https://github.com/anupam-invent/password_generator/issues)
 
-**Password Generator** is a lightweight utility built using vanilla web technologies. All operations run locally within the user's browser, ensuring complete privacy and speed without transmitting data over the network.
+---
 
-## Key Features
+</div>
 
-- **Client-Side Security:** Password generation happens entirely in the browser using the Web Crypto API.
-- **Customizable Criteria:** Options to include uppercase, lowercase, numeric, and special characters.
-- **Zero Dependencies:** Pure HTML, CSS, and JavaScript with no external framework overhead.
-- **Responsive Layout:** Optimized UI for desktop and mobile screen sizes.
+## 📌 Overview
 
-## Tech Stack
+**Password Generator** is a client-side web utility designed for high performance and privacy. It runs entirely in your browser using vanilla web technologies, ensuring that no generated passwords or sensitive user inputs are ever transmitted over the network.
 
-| Category | Technology | Usage |
+---
+
+## ✨ Features
+
+- **⚡ Fast & Lightweight:** Zero external dependencies; built using native web standards.
+- **🛡️ Fully Secure:** All password calculations are processed locally in the client environment.
+- **🎨 Responsive Interface:** Seamless layout adaptation across desktop, tablet, and mobile browsers.
+- **📋 One-Click Copy:** Instant clipboard functionality for efficient password copying.
+
+---
+
+## 🛠️ Tech Stack
+
+| Component | Technology | Description |
 | :--- | :--- | :--- |
-| **Frontend** | HTML5 | Application structure and UI elements |
-| **Styling** | CSS3 | Responsive design and custom layout |
-| **Logic** | JavaScript (ES6+) | Core logic, DOM manipulation, clipboard API |
-| **Hosting** | GitHub Pages | Static hosting and deployment |
+| **Markup** | HTML5 | Semantic structure and elements |
+| **Styling** | CSS3 | Custom UI layout and responsive design |
+| **Logic** | JavaScript (ES6+) | Core password generation algorithm and DOM handling |
+| **Hosting** | GitHub Pages | Continuous deployment and static hosting |
 
-## Quick Start
+---
 
-### Live Application
-Access the hosted web application directly at [anupam-invent.github.io/password_generator](https://anupam-invent.github.io/password_generator/).
+## 🚀 Quick Start
+
+### 1. View Live Deployment
+You can access the hosted web application directly at:
+👉 **[anupam-invent.github.io/password_generator](https://anupam-invent.github.io/password_generator/)**
 
 password_generator/
 ├── index.html        # Main HTML layout
